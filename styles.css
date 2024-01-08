@@ -1,0 +1,9 @@
+.output {
+    margin-top: 20px;
+}
+
+body{
+	background-color:pink;
+   	color:white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
